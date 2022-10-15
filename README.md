@@ -1,7 +1,8 @@
 # Audio_visualiser
-<h1 text-align = "center"><b>Audio Visualiser<b><img src="https://media.giphy.com/media/kEWaYdvMwTIduesqGe/giphy.gif" alt="Coder GIF" align="center" width="150"><br>
-Do check it out on github pages.</h1>
-
+<h1 text-align = "center"><b>Audio Visualiser<b><img src="https://media.giphy.com/media/kEWaYdvMwTIduesqGe/giphy.gif" alt="Coder GIF" align="center" width="150"><br></h1>
+Do check it out on github pages. ("https://virusinlinux.github.io/audio_visualizer/")
+  <br>
+  
 https://user-images.githubusercontent.com/62989890/195963660-df4d33e7-e79e-439d-a9a5-64ceb74f0445.mp4
 
 <b>
